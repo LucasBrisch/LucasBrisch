@@ -1,3 +1,3 @@
-Olá, meu nome é Lucas
-Sou um estudante de Sistemas de Informação na PUCPR
-Tenho experiência com as linguagens, Python, Java, CSS e HTML 
+Hello, my name is Lucas
+I'm an Information Systems student at PUCPR
+I have experience with the languages ​​Python, Java, CSS and HTML
