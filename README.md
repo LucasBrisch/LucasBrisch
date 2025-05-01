@@ -28,4 +28,11 @@ Check out the repository and give it a try! 🚀
 </p>
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-zanlorenzi-5b9792216/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-zanlorenzi-5b9792216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucasbrisch@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
