@@ -8,9 +8,9 @@ I'm a student of Information Systems at PUCPR and passionate about technology. H
 Pokepython is a text-based RPG developed entirely in Python. Inspired by the Pokémon games, you can choose a starter, battle wild Pokémon, capture new ones, train and evolve your partners, and even encounter legendary Pokémon if you're lucky enough!  
 Check out the repository to dive into the adventure! ✨
 
-### Alt+F4 - Electronic Store E-commerce 💻🖱️
-Alt+F4 is an e-commerce system built using HTML, CSS, JavaScript, Node.js, and MySQL. It includes product CRUD operations, a search function, and a shopping cart system. This project was created as a final assignment for the Web Development course, integrating front-end, back-end, and database for a complete solution.  
-Explore the code and learn more! 🛒
+### SysCall 🐍💻
+SysCall is a full-stack web platform that connects users who need tech support with available technicians. Built with FastAPI, MariaDB, and classic HTML/CSS/JS, it supports both B2B and B2C models. This was developed as a final project for the Experiência Criativa course, showcasing a complete client-server architecture with dynamic pages rendered via Jinja2.
+Take a look at the repository and see how it all connects! 🔧
 
 ### Pong Game 🏓🎮
 Pong Game is a recreation of the classic Pong game, developed in Java as part of an Object-Oriented Programming class. It features single-player controls, real-time scoring, and increasing difficulty to keep the challenge alive.  
