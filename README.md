@@ -1,9 +1,9 @@
 # Hi, I'm Lucas 👋
 
-Information Systems student at **PUCPR** and aspiring **Software Developer**.  
+Information Systems student at **PUCPR** and junior **Software Developer**.  
 I enjoy building systems, exploring new technologies, and turning ideas into real projects.
 
-Here you will find some of the projects I've built during my learning journey. 🚀
+Here you will find some of the projects I've built during my developer journey. 🚀
 
 ---
 
