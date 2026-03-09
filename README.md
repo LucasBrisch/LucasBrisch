@@ -12,9 +12,10 @@ Check out the repository to dive into the adventure! ✨
 SysCall is a full-stack web platform that connects users who need tech support with available technicians. Built with FastAPI, MariaDB, and classic HTML/CSS/JS, it supports both B2B and B2C models. This was developed as a final project for the Experiência Criativa course, showcasing a complete client-server architecture with dynamic pages rendered via Jinja2.
 Take a look at the repository and see how it all connects! 🔧
 
-### Pong Game 🏓🎮
-Pong Game is a recreation of the classic Pong game, developed in Java as part of an Object-Oriented Programming class. It features single-player controls, real-time scoring, and increasing difficulty to keep the challenge alive.  
-Check out the repository and give it a try! 🚀
+### Water Enhanced 🌊⛏️
+Water Enhanced is a Minecraft mod developed using the Fabric modding API and Java. The project expands the aquatic side of the game by introducing new mechanics, materials, and gameplay elements related to oceans and water biomes.
+Beyond the gameplay aspect, this project was also an opportunity to practice Object-Oriented Programming concepts in a real environment, working with entities, items, blocks, and systems integrated directly with the Minecraft engine.
+Check out the repository to explore the mod and see how it was built! 🚀
 
 ## 💻 Languages & Technologies I Know
 
